@@ -75,7 +75,7 @@ namespace HelperMethods
 
             Console.ReadLine();
         }
-
+         // methods
         private static void ReverseString(string message)
         {
             char[] messageArray = message.ToCharArray();
