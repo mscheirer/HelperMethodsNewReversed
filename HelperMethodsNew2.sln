@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperMethodsNew2", "HelperMethodsNew2.csproj", "{0ECAC952-75AD-4241-9270-22C35CE57151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ECAC952-75AD-4241-9270-22C35CE57151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECAC952-75AD-4241-9270-22C35CE57151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECAC952-75AD-4241-9270-22C35CE57151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECAC952-75AD-4241-9270-22C35CE57151}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA782BF4-89CC-4AAC-A36B-CF33E158E691}
+	EndGlobalSection
+EndGlobal
