@@ -9,6 +9,9 @@ namespace HelperMethods
         {
 
             /*
+              
+                   // fara methods
+                
                    Console.WriteLine("The Name Game !");
 
                    Console.WriteLine("Enter your First Name: ");
